@@ -7,7 +7,7 @@ Small, fast and powerful console music player for Unix-like operating systems.
 - **Latest release**: `v2.12.0` (2024-10-26)
 - **Last commit**: 2026-08-12
 - **License**: GPL-2.0
-- **Stars**: 6235 · **Forks**: 521 · **Open issues**: 968 · **Contributors**: 146
+- **Stars**: 6236 · **Forks**: 521 · **Open issues**: 968 · **Contributors**: 146
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/cmus> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:46:58Z._
+_Last regenerated: 2026-09-09T19:41:13Z._
