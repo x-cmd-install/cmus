@@ -30,9 +30,9 @@ Overall score: **4.9 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,245 · **Forks**: 521 · **Open issues**: 968 · **Contributors**: 146
+- **Stars**: 6,247 · **Forks**: 522 · **Open issues**: 969 · **Contributors**: 146
 
 ## Totals (cumulative)
 
-- **Releases**: 11 · **Merged PRs**: 337 · **Open PRs**: 15 · **Closed issues**: 764 · **Open issues**: 204 · **Commits**: 2379
+- **Releases**: 11 · **Merged PRs**: 337 · **Open PRs**: 16 · **Closed issues**: 764 · **Open issues**: 205 · **Commits**: 2379
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-07-22 | 0 | 1 | 1 | 0 | 1 | 3 |
-| 90d | 2026-06-22 | 0 | 4 | 1 | 0 | 1 | 5 |
-| last180d | 2026-03-24 | 0 | 6 | 3 | 1 | 4 | 6 |
-| 360d | 2025-09-25 | 0 | 17 | 8 | 10 | 16 | 19 |
-| last720d | 2024-09-30 | 1 | 29 | 13 | 31 | 33 | 63 |
+| 30d | 2026-08-22 | 0 | 0 | 2 | 0 | 2 | 0 |
+| last60d | 2026-07-23 | 0 | 1 | 2 | 0 | 2 | 3 |
+| 90d | 2026-06-23 | 0 | 4 | 2 | 0 | 2 | 5 |
+| last180d | 2026-03-25 | 0 | 6 | 4 | 1 | 5 | 5 |
+| 360d | 2025-09-26 | 0 | 17 | 9 | 10 | 17 | 17 |
+| last720d | 2024-10-01 | 1 | 29 | 14 | 31 | 34 | 63 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for cmus lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:53:25Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:52:03Z._
