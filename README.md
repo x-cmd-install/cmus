@@ -26,13 +26,13 @@ Total: **43,046** lines of code across **182** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.9 / 10**
+Overall score: **5 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,253 · **Forks**: 522 · **Open issues**: 970 · **Contributors**: 146
+- **Stars**: 6,256 · **Forks**: 522 · **Open issues**: 970 · **Contributors**: 146
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 0 | 9 | 0 | 2 | 0 |
-| last60d | 2026-07-31 | 0 | 1 | 10 | 0 | 3 | 2 |
-| 90d | 2026-07-01 | 0 | 4 | 10 | 0 | 3 | 5 |
-| last180d | 2026-04-02 | 0 | 5 | 11 | 0 | 6 | 5 |
-| 360d | 2025-10-04 | 0 | 16 | 16 | 10 | 18 | 16 |
-| last720d | 2024-10-09 | 1 | 29 | 21 | 31 | 35 | 59 |
+| 30d | 2026-08-31 | 0 | 0 | 9 | 0 | 2 | 0 |
+| last60d | 2026-08-01 | 0 | 1 | 10 | 0 | 3 | 2 |
+| 90d | 2026-07-02 | 0 | 4 | 10 | 0 | 3 | 5 |
+| last180d | 2026-04-03 | 0 | 5 | 11 | 0 | 6 | 5 |
+| 360d | 2025-10-05 | 0 | 16 | 16 | 10 | 18 | 16 |
+| last720d | 2024-10-10 | 1 | 29 | 21 | 31 | 35 | 59 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for cmus lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:27:48Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:22:33Z._
