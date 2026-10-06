@@ -26,7 +26,7 @@ Total: **43,128** lines of code across **182** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5 / 10**
+Overall score: **5.4 / 10**
 
 Lowest-scoring checks:
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,259 · **Forks**: 522 · **Open issues**: 971 · **Contributors**: 147
+- **Stars**: 6,258 · **Forks**: 522 · **Open issues**: 972 · **Contributors**: 147
 
 ## Totals (cumulative)
 
-- **Releases**: 11 · **Merged PRs**: 343 · **Open PRs**: 16 · **Closed issues**: 767 · **Open issues**: 204 · **Commits**: 2385
+- **Releases**: 11 · **Merged PRs**: 343 · **Open PRs**: 16 · **Closed issues**: 767 · **Open issues**: 205 · **Commits**: 2385
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 6 | 3 | 0 | 3 | 6 |
-| last60d | 2026-08-06 | 0 | 7 | 4 | 0 | 4 | 6 |
-| 90d | 2026-07-07 | 0 | 10 | 4 | 0 | 4 | 11 |
-| last180d | 2026-04-08 | 0 | 11 | 5 | 0 | 7 | 11 |
-| 360d | 2025-10-10 | 0 | 21 | 10 | 9 | 17 | 22 |
-| last720d | 2024-10-15 | 1 | 35 | 14 | 33 | 33 | 65 |
+| 30d | 2026-09-06 | 0 | 6 | 3 | 0 | 4 | 6 |
+| last60d | 2026-08-07 | 0 | 7 | 4 | 0 | 5 | 6 |
+| 90d | 2026-07-08 | 0 | 10 | 4 | 0 | 5 | 11 |
+| last180d | 2026-04-09 | 0 | 11 | 5 | 0 | 8 | 11 |
+| 360d | 2025-10-11 | 0 | 21 | 10 | 9 | 18 | 22 |
+| last720d | 2024-10-16 | 1 | 35 | 14 | 33 | 34 | 65 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for cmus lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:23:54Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:18:33Z._
