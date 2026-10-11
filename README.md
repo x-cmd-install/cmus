@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,260 · **Forks**: 522 · **Open issues**: 972 · **Contributors**: 147
+- **Stars**: 6,262 · **Forks**: 522 · **Open issues**: 973 · **Contributors**: 147
 
 ## Totals (cumulative)
 
-- **Releases**: 11 · **Merged PRs**: 343 · **Open PRs**: 16 · **Closed issues**: 767 · **Open issues**: 205 · **Commits**: 2385
+- **Releases**: 11 · **Merged PRs**: 343 · **Open PRs**: 17 · **Closed issues**: 767 · **Open issues**: 206 · **Commits**: 2385
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 6 | 3 | 0 | 4 | 6 |
-| last60d | 2026-08-11 | 0 | 6 | 4 | 0 | 5 | 6 |
-| 90d | 2026-07-12 | 0 | 10 | 4 | 0 | 5 | 11 |
-| last180d | 2026-04-13 | 0 | 11 | 5 | 0 | 8 | 11 |
-| 360d | 2025-10-15 | 0 | 21 | 10 | 9 | 18 | 22 |
-| last720d | 2024-10-20 | 1 | 35 | 14 | 33 | 34 | 65 |
+| 30d | 2026-09-11 | 0 | 6 | 4 | 0 | 5 | 6 |
+| last60d | 2026-08-12 | 0 | 6 | 5 | 0 | 6 | 6 |
+| 90d | 2026-07-13 | 0 | 10 | 5 | 0 | 6 | 11 |
+| last180d | 2026-04-14 | 0 | 11 | 6 | 0 | 9 | 11 |
+| 360d | 2025-10-16 | 0 | 21 | 11 | 9 | 19 | 22 |
+| last720d | 2024-10-21 | 1 | 35 | 15 | 33 | 35 | 65 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for cmus lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:32:42Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:23:32Z._
