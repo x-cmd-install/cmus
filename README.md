@@ -30,8 +30,8 @@ Overall score: **5.4 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## Source
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,268 · **Forks**: 521 · **Open issues**: 973 · **Contributors**: 147
+- **Stars**: 6,270 · **Forks**: 521 · **Open issues**: 973 · **Contributors**: 147
 
 ## Totals (cumulative)
 
-- **Releases**: 11 · **Merged PRs**: 343 · **Open PRs**: 17 · **Closed issues**: 767 · **Open issues**: 206 · **Commits**: 2385
+- **Releases**: 11 · **Merged PRs**: 343 · **Open PRs**: 18 · **Closed issues**: 767 · **Open issues**: 206 · **Commits**: 2385
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 6 | 3 | 0 | 4 | 0 |
-| last60d | 2026-08-21 | 0 | 6 | 5 | 0 | 6 | 6 |
-| 90d | 2026-07-22 | 0 | 7 | 5 | 0 | 6 | 9 |
-| last180d | 2026-04-23 | 0 | 11 | 6 | 0 | 9 | 11 |
-| 360d | 2025-10-25 | 0 | 21 | 11 | 8 | 19 | 20 |
-| last720d | 2024-10-30 | 0 | 34 | 15 | 32 | 35 | 63 |
+| 30d | 2026-09-21 | 0 | 6 | 4 | 0 | 4 | 0 |
+| last60d | 2026-08-22 | 0 | 6 | 6 | 0 | 6 | 6 |
+| 90d | 2026-07-23 | 0 | 7 | 6 | 0 | 6 | 9 |
+| last180d | 2026-04-24 | 0 | 10 | 7 | 0 | 9 | 11 |
+| 360d | 2025-10-26 | 0 | 21 | 12 | 7 | 19 | 20 |
+| last720d | 2024-10-31 | 0 | 34 | 16 | 32 | 35 | 63 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for cmus lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:37:30Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:34:15Z._
