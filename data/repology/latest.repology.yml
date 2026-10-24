@@ -1,29 +1,12 @@
-- repo: cygwin
+- repo: chromebrew
   srcname: cmus
-  binname: cmus-debuginfo
-  visiblename: cmus-debuginfo
+  visiblename: cmus
   version: 2.12.0
-  origversion: 2.12.0-1
+  origversion: null
   status: newest
-  summary: cmus is a small, fast and powerful console music player for Unix-like operating systems
-  maintainers:
-    - federico.kircheis@cygwin
+  summary: cmus is a small, fast and powerful console music player for Unix-like operating systems.
   licenses:
-    - GPL-2.0
-  categories:
-    - Debug
-- repo: freebsd
-  srcname: audio/cmus
-  binname: cmus
-  visiblename: audio/cmus
-  version: 2.12.0
-  origversion: 2.12.0_3
-  status: newest
-  summary: Console-based music player with really cool features
-  maintainers:
-    - eduardo@freebsd.org
-  categories:
-    - audio
+    - GPL-2
 - repo: adelie_current
   subrepo: user
   srcname: cmus
@@ -76,6 +59,20 @@
     - nospam@bpiotrowski.pl
   licenses:
     - GPL-2.0-or-later
+- repo: cygwin
+  srcname: cmus
+  binname: cmus
+  visiblename: cmus
+  version: 2.12.0
+  origversion: 2.12.0-1
+  status: newest
+  summary: cmus is a small, fast and powerful console music player for Unix-like operating systems
+  maintainers:
+    - federico.kircheis@cygwin
+  licenses:
+    - GPL-2.0
+  categories:
+    - Audio
 - repo: alpine_3_17
   subrepo: community
   srcname: cmus
@@ -219,47 +216,46 @@
     - nospam@bpiotrowski.pl
   licenses:
     - GPL-2.0-or-later
-- repo: alpine_3_20
-  subrepo: community
+- repo: cygwin
   srcname: cmus
-  binname: cmus
-  visiblename: cmus
-  version: 2.11.0
-  origversion: 2.11.0-r0
-  status: outdated
-  summary: feature-rich ncurses-based music player
+  binname: cmus-debuginfo
+  visiblename: cmus-debuginfo
+  version: 2.12.0
+  origversion: 2.12.0-1
+  status: newest
+  summary: cmus is a small, fast and powerful console music player for Unix-like operating systems
   maintainers:
-    - nospam@bpiotrowski.pl
+    - federico.kircheis@cygwin
   licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_20
-  subrepo: community
-  srcname: cmus
-  binname: cmus-bash-completion
-  visiblename: cmus-bash-completion
-  version: 2.11.0
-  origversion: 2.11.0-r0
-  status: outdated
-  summary: Bash completions for cmus
-  maintainers:
-    - nospam@bpiotrowski.pl
-  licenses:
-    - GPL-2.0-or-later
-- repo: pureos_amber
-  subrepo: amber/main
-  srcname: cmus
-  binnames:
-    - cmus
-    - cmus-plugin-ffmpeg
-  visiblename: cmus
-  version: 2.7.1+git20160225
-  origversion: 2.7.1+git20160225-2
-  status: outdated
-  maintainers:
-    - debian-multimedia@lists.debian.org
-    - rak@debian.org
+    - GPL-2.0
   categories:
-    - sound
+    - Debug
+- repo: alpine_3_20
+  subrepo: community
+  srcname: cmus
+  binname: cmus
+  visiblename: cmus
+  version: 2.11.0
+  origversion: 2.11.0-r0
+  status: outdated
+  summary: feature-rich ncurses-based music player
+  maintainers:
+    - nospam@bpiotrowski.pl
+  licenses:
+    - GPL-2.0-or-later
+- repo: alpine_3_20
+  subrepo: community
+  srcname: cmus
+  binname: cmus-bash-completion
+  visiblename: cmus-bash-completion
+  version: 2.11.0
+  origversion: 2.11.0-r0
+  status: outdated
+  summary: Bash completions for cmus
+  maintainers:
+    - nospam@bpiotrowski.pl
+  licenses:
+    - GPL-2.0-or-later
 - repo: alpine_3_20
   subrepo: community
   srcname: cmus
@@ -364,6 +360,19 @@
     - nospam@bpiotrowski.pl
   licenses:
     - GPL-2.0-or-later
+- repo: alpine_edge
+  subrepo: community
+  srcname: cmus
+  binname: cmus
+  visiblename: cmus
+  version: 2.12.0
+  origversion: 2.12.0-r4
+  status: newest
+  summary: feature-rich ncurses-based music player
+  maintainers:
+    - nospam@bpiotrowski.pl
+  licenses:
+    - GPL-2.0-or-later
 - repo: alpine_3_22
   subrepo: community
   srcname: cmus
@@ -390,21 +399,6 @@
     - nospam@bpiotrowski.pl
   licenses:
     - GPL-2.0-or-later
-- repo: debian_11
-  subrepo: bullseye/main
-  srcname: cmus
-  binnames:
-    - cmus
-    - cmus-plugin-ffmpeg
-  visiblename: cmus
-  version: 2.9.1
-  origversion: 2.9.1-1
-  status: outdated
-  maintainers:
-    - debian-multimedia@lists.debian.org
-    - rak@debian.org
-  categories:
-    - sound
 - repo: alpine_3_23
   subrepo: community
   srcname: cmus
@@ -509,17 +503,15 @@
     - nospam@bpiotrowski.pl
   licenses:
     - GPL-2.0-or-later
-- repo: alpine_edge
-  subrepo: community
+- repo: chimera
+  subrepo: main
   srcname: cmus
-  binname: cmus
-  visiblename: cmus
+  binname: cmus-man
+  visiblename: cmus-man
   version: 2.12.0
-  origversion: 2.12.0-r4
+  origversion: 2.12.0-r2
   status: newest
-  summary: feature-rich ncurses-based music player
-  maintainers:
-    - nospam@bpiotrowski.pl
+  summary: Console music player (manual pages)
   licenses:
     - GPL-2.0-or-later
 - repo: alpine_edge
@@ -561,19 +553,6 @@
     - nospam@bpiotrowski.pl
   licenses:
     - GPL-2.0-or-later
-- repo: gentoo
-  srcname: media-sound/cmus
-  visiblename: media-sound/cmus
-  version: "9999"
-  origversion: null
-  status: rolling
-  summary: Ncurses based music player with plugin support for many formats
-  maintainers:
-    - sound@gentoo.org
-  licenses:
-    - GPL-2
-  categories:
-    - media-sound
 - repo: alt_p11
   srcname: cmus
   binnames:
@@ -738,40 +717,21 @@
   summary: Console music player (documentation)
   licenses:
     - GPL-2.0-or-later
-- repo: chimera
-  subrepo: main
+- repo: debian_11
+  subrepo: bullseye/main
   srcname: cmus
-  binname: cmus-man
-  visiblename: cmus-man
-  version: 2.12.0
-  origversion: 2.12.0-r2
-  status: newest
-  summary: Console music player (manual pages)
-  licenses:
-    - GPL-2.0-or-later
-- repo: chromebrew
-  srcname: cmus
+  binnames:
+    - cmus
+    - cmus-plugin-ffmpeg
   visiblename: cmus
-  version: 2.12.0
-  origversion: null
-  status: newest
-  summary: cmus is a small, fast and powerful console music player for Unix-like operating systems.
-  licenses:
-    - GPL-2
-- repo: cygwin
-  srcname: cmus
-  binname: cmus
-  visiblename: cmus
-  version: 2.12.0
-  origversion: 2.12.0-1
-  status: newest
-  summary: cmus is a small, fast and powerful console music player for Unix-like operating systems
+  version: 2.9.1
+  origversion: 2.9.1-1
+  status: outdated
   maintainers:
-    - federico.kircheis@cygwin
-  licenses:
-    - GPL-2.0
+    - debian-multimedia@lists.debian.org
+    - rak@debian.org
   categories:
-    - Audio
+    - sound
 - repo: debian_12
   subrepo: bookworm/main
   srcname: cmus
@@ -900,6 +860,31 @@
   summary: A console audio player
   maintainers:
     - fallback-mnt-exherbo@repology
+  categories:
+    - media-sound
+- repo: freebsd
+  srcname: audio/cmus
+  binname: cmus
+  visiblename: audio/cmus
+  version: 2.12.0
+  origversion: 2.12.0_3
+  status: newest
+  summary: Console-based music player with really cool features
+  maintainers:
+    - eduardo@freebsd.org
+  categories:
+    - audio
+- repo: gentoo
+  srcname: media-sound/cmus
+  visiblename: media-sound/cmus
+  version: "9999"
+  origversion: null
+  status: rolling
+  summary: Ncurses based music player with plugin support for many formats
+  maintainers:
+    - sound@gentoo.org
+  licenses:
+    - GPL-2
   categories:
     - media-sound
 - repo: gentoo
@@ -1045,22 +1030,6 @@
   categories:
     - audio
 - repo: mageia_9
-  subrepo: tainted/release
-  srcname: cmus
-  binnames:
-    - cmus
-    - cmus-debuginfo
-    - cmus-debugsource
-  visiblename: cmus
-  version: 2.10.0
-  origversion: 2.10.0-3.mga9.tainted
-  status: outdated
-  summary: A powerful ncurses-based music player
-  licenses:
-    - GPLv2
-  categories:
-    - Sound/Players
-- repo: mageia_9
   subrepo: core/release
   srcname: cmus
   binnames:
@@ -1070,6 +1039,22 @@
   visiblename: cmus
   version: 2.10.0
   origversion: 2.10.0-3.mga9
+  status: outdated
+  summary: A powerful ncurses-based music player
+  licenses:
+    - GPLv2
+  categories:
+    - Sound/Players
+- repo: mageia_9
+  subrepo: tainted/release
+  srcname: cmus
+  binnames:
+    - cmus
+    - cmus-debuginfo
+    - cmus-debugsource
+  visiblename: cmus
+  version: 2.10.0
+  origversion: 2.10.0-3.mga9.tainted
   status: outdated
   summary: A powerful ncurses-based music player
   licenses:
@@ -1090,6 +1075,16 @@
     - GPLv2
   categories:
     - Sound/Players
+- repo: slackbuilds
+  srcname: audio/cmus
+  visiblename: audio/cmus
+  version: 2.12.0
+  origversion: null
+  status: newest
+  maintainers:
+    - ponce@slackbuilds.org
+  categories:
+    - audio
 - repo: mageia_10
   subrepo: tainted/release
   srcname: cmus
@@ -1105,20 +1100,6 @@
   categories:
     - Sound/Players
 - repo: mageia_cauldron
-  subrepo: core/release
-  srcname: cmus
-  binnames:
-    - cmus
-  visiblename: cmus
-  version: 2.12.0
-  origversion: 2.12.0-5.mga11
-  status: newest
-  summary: A powerful ncurses-based music player
-  licenses:
-    - GPLv2
-  categories:
-    - Sound/Players
-- repo: mageia_cauldron
   subrepo: tainted/release
   srcname: cmus
   binnames:
@@ -1126,6 +1107,20 @@
   visiblename: cmus
   version: 2.12.0
   origversion: 2.12.0-5.mga11.tainted
+  status: newest
+  summary: A powerful ncurses-based music player
+  licenses:
+    - GPLv2
+  categories:
+    - Sound/Players
+- repo: mageia_cauldron
+  subrepo: core/release
+  srcname: cmus
+  binnames:
+    - cmus
+  visiblename: cmus
+  version: 2.12.0
+  origversion: 2.12.0-5.mga11
   status: newest
   summary: A powerful ncurses-based music player
   licenses:
@@ -1377,7 +1372,7 @@
     - cmus-plugins-all
   visiblename: cmus
   version: 2.12.0
-  origversion: 2.12.0-44.27
+  origversion: 2.12.0-44.28
   status: newest
   summary: Text-mode music player
   licenses:
@@ -1540,6 +1535,21 @@
   version: 2.5.0
   origversion: 2.5.0-2
   status: outdated
+- repo: pureos_amber
+  subrepo: amber/main
+  srcname: cmus
+  binnames:
+    - cmus
+    - cmus-plugin-ffmpeg
+  visiblename: cmus
+  version: 2.7.1+git20160225
+  origversion: 2.7.1+git20160225-2
+  status: outdated
+  maintainers:
+    - debian-multimedia@lists.debian.org
+    - rak@debian.org
+  categories:
+    - sound
 - repo: pureos_byzantium
   subrepo: byzantium/main
   srcname: cmus
@@ -1730,16 +1740,6 @@
     - uglyside@yandex.ru
   licenses:
     - GPL-2
-- repo: slackbuilds
-  srcname: audio/cmus
-  visiblename: audio/cmus
-  version: 2.12.0
-  origversion: null
-  status: newest
-  maintainers:
-    - ponce@slackbuilds.org
-  categories:
-    - audio
 - repo: solus
   srcname: cmus
   binname: cmus
@@ -1768,6 +1768,16 @@
     - GPL-2.0-or-later
   categories:
     - debug
+- repo: starkos
+  subrepo: extra
+  srcname: cmus
+  visiblename: cmus
+  version: 2.12.0
+  origversion: 2.12.0-1
+  status: newest
+  summary: Feature-rich ncurses-based music player
+  maintainers:
+    - starkos@disroot.org
 - repo: termux
   srcname: cmus
   binname: cmus
