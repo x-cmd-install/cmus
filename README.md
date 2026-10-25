@@ -14,12 +14,12 @@ x install cmus
 
 ## Code insight
 
-Total: **43,142** lines of code across **182** files in the top 5 languages.
+Total: **43,143** lines of code across **182** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 36,844 | 3,515 | 6,404 | 96 |
-| CHeader | 4,080 | 2,230 | 910 | 73 |
+| C | 36,842 | 3,515 | 6,404 | 96 |
+| CHeader | 4,083 | 2,230 | 907 | 73 |
 | Sh | 1,691 | 285 | 202 | 8 |
 | Makefile | 301 | 48 | 106 | 2 |
 | Python | 158 | 25 | 31 | 3 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.12.0` (2024-10-26)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-10-24
 
 ## Popularity
 
-- **Stars**: 6,272 · **Forks**: 522 · **Open issues**: 973 · **Contributors**: 148
+- **Stars**: 6,276 · **Forks**: 521 · **Open issues**: 973 · **Contributors**: 148
 
 ## Totals (cumulative)
 
-- **Releases**: 11 · **Merged PRs**: 344 · **Open PRs**: 17 · **Closed issues**: 767 · **Open issues**: 206 · **Commits**: 2386
+- **Releases**: 11 · **Merged PRs**: 345 · **Open PRs**: 16 · **Closed issues**: 767 · **Open issues**: 206 · **Commits**: 2387
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 0 | 4 | 0 | 3 | 1 |
-| last60d | 2026-08-25 | 0 | 7 | 6 | 0 | 6 | 7 |
-| 90d | 2026-07-26 | 0 | 8 | 6 | 0 | 6 | 10 |
-| last180d | 2026-04-27 | 0 | 11 | 7 | 0 | 9 | 12 |
-| 360d | 2025-10-29 | 0 | 21 | 12 | 7 | 19 | 21 |
-| last720d | 2024-11-03 | 0 | 35 | 15 | 32 | 35 | 64 |
+| 30d | 2026-09-25 | 0 | 1 | 3 | 0 | 3 | 2 |
+| last60d | 2026-08-26 | 0 | 8 | 5 | 0 | 5 | 8 |
+| 90d | 2026-07-27 | 0 | 9 | 5 | 0 | 6 | 11 |
+| last180d | 2026-04-28 | 0 | 12 | 6 | 0 | 9 | 13 |
+| 360d | 2025-10-30 | 0 | 22 | 11 | 7 | 19 | 21 |
+| last720d | 2024-11-04 | 0 | 36 | 14 | 32 | 35 | 65 |
 
 ## Distribution status
 
@@ -91,4 +91,4 @@ Install metadata for cmus lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:16:23Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:22:22Z._
