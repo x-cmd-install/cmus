@@ -42,45 +42,45 @@ x install cmus
 
 ## 发布
 
-- **最新版本**: `v2.12.0` (2024-10-26)
-- **最近提交**: 2026-10-24
+- **最新版本**: `v2.13.0` (2026-10-28)
+- **最近提交**: 2026-10-28
 
 ## 流行度
 
-- **Star**: 6,275 · **Fork**: 523 · **开放 issue**: 973 · **贡献者**: 148
+- **Star**: 6,279 · **Fork**: 524 · **开放 issue**: 973 · **贡献者**: 148
 
 ## 累计统计
 
-- **发布数**: 11 · **已合并 PR**: 345 · **开放 PR**: 16 · **已关闭 issue**: 767 · **开放 issue**: 206 · **提交数**: 2387
+- **发布数**: 12 · **已合并 PR**: 345 · **开放 PR**: 16 · **已关闭 issue**: 768 · **开放 issue**: 205 · **提交数**: 2388
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 1 | 3 | 0 | 3 | 2 |
-| last60d | 2026-08-29 | 0 | 8 | 4 | 0 | 5 | 8 |
-| 90d | 2026-07-30 | 0 | 9 | 5 | 0 | 6 | 11 |
-| last180d | 2026-05-01 | 0 | 12 | 6 | 0 | 9 | 13 |
-| 360d | 2025-11-02 | 0 | 21 | 11 | 7 | 19 | 21 |
-| last720d | 2024-11-07 | 0 | 36 | 14 | 32 | 35 | 65 |
+| 30d | 2026-09-29 | 1 | 1 | 3 | 0 | 3 | 3 |
+| last60d | 2026-08-30 | 1 | 8 | 4 | 0 | 5 | 9 |
+| 90d | 2026-07-31 | 1 | 9 | 5 | 0 | 6 | 12 |
+| last180d | 2026-05-02 | 1 | 12 | 6 | 0 | 9 | 14 |
+| 360d | 2025-11-03 | 1 | 21 | 11 | 8 | 18 | 22 |
+| last720d | 2024-11-08 | 1 | 36 | 14 | 33 | 34 | 66 |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/cmus) 上共有 **158** 个发行版报告此项目。**99** 个 ✅ 已是最新上游版本，**51** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/cmus) 上共有 **158** 个发行版报告此项目。**8** 个 ✅ 已是最新上游版本，**142** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Debian unstable | `2.12.0` | ✅ latest |
-| Debian 14 | `2.12.0` | ✅ latest |
-| Debian 13 | `2.12.0` | ✅ latest |
-| Ubuntu 26.04 LTS | `2.12.0` | ✅ latest |
+| Debian unstable | `2.12.0` | ⚠️ outdated |
+| Debian 14 | `2.12.0` | ⚠️ outdated |
+| Debian 13 | `2.12.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `2.12.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `2.10.0` | ⚠️ outdated |
-| Arch | `2.12.0` | ✅ latest |
-| Homebrew | `2.12.0` | ✅ latest |
-| Nix unstable | `2.12.0` | ✅ latest |
-| Void | `2.12.0` | ✅ latest |
-| Alpine edge | `2.12.0` | ✅ latest |
-| openSUSE Tumbleweed | `2.12.0` | ✅ latest |
+| Arch | `2.12.0` | ⚠️ outdated |
+| Homebrew | `2.13.0` | ✅ latest |
+| Nix unstable | `2.12.0` | ⚠️ outdated |
+| Void | `2.12.0` | ⚠️ outdated |
+| Alpine edge | `2.12.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.12.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -91,4 +91,4 @@ cmus 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261028.yml` · 2026-10-28T06:24:22Z._
+_数据快照: `data/card/261029.yml` · 2026-10-29T06:37:16Z._
