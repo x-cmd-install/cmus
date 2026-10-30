@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,279 · **Forks**: 524 · **Open issues**: 973 · **Contributors**: 148
+- **Stars**: 6,280 · **Forks**: 524 · **Open issues**: 973 · **Contributors**: 148
 
 ## Totals (cumulative)
 
@@ -57,16 +57,16 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 1 | 1 | 3 | 0 | 3 | 3 |
-| last60d | 2026-08-30 | 1 | 8 | 4 | 0 | 5 | 9 |
-| 90d | 2026-07-31 | 1 | 9 | 5 | 0 | 6 | 12 |
-| last180d | 2026-05-02 | 1 | 12 | 6 | 0 | 9 | 14 |
-| 360d | 2025-11-03 | 1 | 21 | 11 | 8 | 18 | 22 |
-| last720d | 2024-11-08 | 1 | 36 | 14 | 33 | 34 | 66 |
+| 30d | 2026-09-30 | 1 | 1 | 3 | 0 | 3 | 3 |
+| last60d | 2026-08-31 | 1 | 8 | 4 | 0 | 5 | 9 |
+| 90d | 2026-08-01 | 1 | 9 | 5 | 0 | 6 | 12 |
+| last180d | 2026-05-03 | 1 | 12 | 6 | 0 | 9 | 14 |
+| 360d | 2025-11-04 | 1 | 21 | 11 | 7 | 18 | 22 |
+| last720d | 2024-11-09 | 1 | 36 | 14 | 33 | 34 | 66 |
 
 ## Distribution status
 
-Reported by **158** distros on [repology.org](https://repology.org/project/cmus). **8** are ✅ on the latest upstream release, **142** are ⚠️ on an older version.
+Reported by **158** distros on [repology.org](https://repology.org/project/cmus). **9** are ✅ on the latest upstream release, **141** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -76,7 +76,7 @@ Reported by **158** distros on [repology.org](https://repology.org/project/cmus)
 | Ubuntu 26.04 LTS | `2.12.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `2.10.0` | ⚠️ outdated |
 | Arch | `2.12.0` | ⚠️ outdated |
-| Homebrew | `2.13.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `2.12.0` | ⚠️ outdated |
 | Void | `2.12.0` | ⚠️ outdated |
 | Alpine edge | `2.12.0` | ⚠️ outdated |
@@ -91,4 +91,4 @@ Install metadata for cmus lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:37:16Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:34:16Z._
