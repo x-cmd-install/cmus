@@ -47,7 +47,7 @@ x install cmus
 
 ## 流行度
 
-- **Star**: 6,285 · **Fork**: 523 · **开放 issue**: 973 · **贡献者**: 148
+- **Star**: 6,286 · **Fork**: 522 · **开放 issue**: 973 · **贡献者**: 148
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install cmus
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 1 | 1 | 3 | 0 | 1 | 3 |
-| last60d | 2026-09-08 | 1 | 8 | 4 | 0 | 5 | 9 |
-| 90d | 2026-08-09 | 1 | 8 | 5 | 0 | 6 | 9 |
-| last180d | 2026-05-11 | 1 | 12 | 6 | 0 | 9 | 14 |
-| 360d | 2025-11-12 | 1 | 20 | 11 | 5 | 18 | 22 |
-| last720d | 2024-11-17 | 1 | 36 | 14 | 33 | 34 | 66 |
+| 30d | 2026-10-09 | 1 | 1 | 3 | 0 | 1 | 3 |
+| last60d | 2026-09-09 | 1 | 8 | 4 | 0 | 5 | 9 |
+| 90d | 2026-08-10 | 1 | 8 | 5 | 0 | 6 | 9 |
+| last180d | 2026-05-12 | 1 | 12 | 6 | 0 | 8 | 14 |
+| 360d | 2025-11-13 | 1 | 20 | 11 | 5 | 18 | 22 |
+| last720d | 2024-11-18 | 1 | 36 | 14 | 33 | 33 | 66 |
 
 ## 发行版状态
 
@@ -76,7 +76,7 @@ x install cmus
 | Ubuntu 26.04 LTS | `2.12.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `2.10.0` | ⚠️ outdated |
 | Arch | `2.12.0` | ⚠️ outdated |
-| Homebrew | `2.13.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `2.12.0` | ⚠️ outdated |
 | Void | `2.12.0` | ⚠️ outdated |
 | Alpine edge | `2.13.0` | ✅ latest |
@@ -91,4 +91,4 @@ cmus 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261107.yml` · 2026-11-07T06:41:24Z._
+_数据快照: `data/card/261108.yml` · 2026-11-08T06:45:06Z._
