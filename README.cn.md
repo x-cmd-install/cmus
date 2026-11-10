@@ -47,7 +47,7 @@ x install cmus
 
 ## 流行度
 
-- **Star**: 6,286 · **Fork**: 522 · **开放 issue**: 973 · **贡献者**: 148
+- **Star**: 6,289 · **Fork**: 521 · **开放 issue**: 973 · **贡献者**: 148
 
 ## 累计统计
 
@@ -57,16 +57,16 @@ x install cmus
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 1 | 1 | 3 | 0 | 1 | 3 |
-| last60d | 2026-09-09 | 1 | 8 | 4 | 0 | 5 | 9 |
-| 90d | 2026-08-10 | 1 | 8 | 5 | 0 | 6 | 9 |
-| last180d | 2026-05-12 | 1 | 12 | 6 | 0 | 8 | 14 |
-| 360d | 2025-11-13 | 1 | 20 | 11 | 5 | 18 | 22 |
-| last720d | 2024-11-18 | 1 | 36 | 14 | 33 | 33 | 66 |
+| 30d | 2026-10-11 | 1 | 1 | 2 | 0 | 0 | 2 |
+| last60d | 2026-09-11 | 1 | 8 | 4 | 0 | 5 | 9 |
+| 90d | 2026-08-12 | 1 | 8 | 5 | 0 | 6 | 9 |
+| last180d | 2026-05-14 | 1 | 12 | 6 | 0 | 8 | 14 |
+| 360d | 2025-11-15 | 1 | 20 | 11 | 5 | 18 | 21 |
+| last720d | 2024-11-20 | 1 | 36 | 14 | 33 | 33 | 66 |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/cmus) 上共有 **161** 个发行版报告此项目。**19** 个 ✅ 已是最新上游版本，**133** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/cmus) 上共有 **162** 个发行版报告此项目。**25** 个 ✅ 已是最新上游版本，**128** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -76,11 +76,11 @@ x install cmus
 | Ubuntu 26.04 LTS | `2.12.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `2.10.0` | ⚠️ outdated |
 | Arch | `2.12.0` | ⚠️ outdated |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `2.13.0` | ✅ latest |
 | Nix unstable | `2.12.0` | ⚠️ outdated |
 | Void | `2.12.0` | ⚠️ outdated |
 | Alpine edge | `2.13.0` | ✅ latest |
-| openSUSE Tumbleweed | `2.12.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.13.0` | ✅ latest |
 
 ## 改进这些数据
 
@@ -91,4 +91,4 @@ cmus 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261108.yml` · 2026-11-08T06:45:06Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T08:15:54Z._
