@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,293 · **Forks**: 522 · **Open issues**: 974 · **Contributors**: 148
+- **Stars**: 6,294 · **Forks**: 522 · **Open issues**: 974 · **Contributors**: 148
 
 ## Totals (cumulative)
 
@@ -57,16 +57,16 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 1 | 1 | 2 | 0 | 1 | 2 |
-| last60d | 2026-09-15 | 1 | 8 | 4 | 0 | 6 | 9 |
-| 90d | 2026-08-16 | 1 | 8 | 5 | 0 | 7 | 9 |
-| last180d | 2026-05-18 | 1 | 12 | 6 | 0 | 8 | 14 |
-| 360d | 2025-11-19 | 1 | 20 | 11 | 5 | 19 | 21 |
-| last720d | 2024-11-24 | 1 | 36 | 14 | 33 | 34 | 66 |
+| 30d | 2026-10-16 | 1 | 1 | 2 | 0 | 1 | 2 |
+| last60d | 2026-09-16 | 1 | 8 | 4 | 0 | 6 | 9 |
+| 90d | 2026-08-17 | 1 | 8 | 5 | 0 | 7 | 9 |
+| last180d | 2026-05-19 | 1 | 12 | 6 | 0 | 8 | 14 |
+| 360d | 2025-11-20 | 1 | 20 | 11 | 5 | 19 | 21 |
+| last720d | 2024-11-25 | 1 | 36 | 14 | 33 | 34 | 66 |
 
 ## Distribution status
 
-Reported by **161** distros on [repology.org](https://repology.org/project/cmus). **27** are ✅ on the latest upstream release, **125** are ⚠️ on an older version.
+Reported by **161** distros on [repology.org](https://repology.org/project/cmus). **28** are ✅ on the latest upstream release, **124** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -91,4 +91,4 @@ Install metadata for cmus lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T07:52:56Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:27:14Z._
