@@ -24,16 +24,6 @@ x install cmus
 | Makefile | 301 | 48 | 106 | 2 |
 | Python | 158 | 25 | 31 | 3 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **5.3 / 10**
-
-评分最低的几项:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
-
 ## 源代码
 
 - **上游仓库**: <https://github.com/cmus/cmus>
@@ -47,7 +37,7 @@ x install cmus
 
 ## 流行度
 
-- **Star**: 6,297 · **Fork**: 522 · **开放 issue**: 974 · **贡献者**: 148
+- **Star**: 6,295 · **Fork**: 522 · **开放 issue**: 974 · **贡献者**: 148
 
 ## 累计统计
 
@@ -57,16 +47,16 @@ x install cmus
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 1 | 2 | 0 | 1 | 1 |
-| last60d | 2026-09-17 | 1 | 8 | 4 | 0 | 6 | 9 |
-| 90d | 2026-08-18 | 1 | 8 | 5 | 0 | 7 | 9 |
-| last180d | 2026-05-20 | 1 | 12 | 6 | 0 | 8 | 14 |
-| 360d | 2025-11-21 | 1 | 20 | 11 | 5 | 19 | 20 |
-| last720d | 2024-11-26 | 1 | 36 | 14 | 33 | 34 | 66 |
+| 30d | 2026-10-18 | 1 | 1 | 2 | 0 | 1 | 1 |
+| last60d | 2026-09-18 | 1 | 8 | 4 | 0 | 6 | 9 |
+| 90d | 2026-08-19 | 1 | 8 | 5 | 0 | 7 | 9 |
+| last180d | 2026-05-21 | 1 | 12 | 6 | 0 | 8 | 14 |
+| 360d | 2025-11-22 | 1 | 20 | 11 | 5 | 19 | 20 |
+| last720d | 2024-11-27 | 1 | 36 | 14 | 33 | 34 | 66 |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/cmus) 上共有 **161** 个发行版报告此项目。**30** 个 ✅ 已是最新上游版本，**122** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/cmus) 上共有 **162** 个发行版报告此项目。**32** 个 ✅ 已是最新上游版本，**121** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -91,4 +81,4 @@ cmus 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T07:48:30Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T08:25:30Z._

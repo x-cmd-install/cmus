@@ -24,16 +24,6 @@ Total: **43,143** lines of code across **182** files in the top 5 languages.
 | Makefile | 301 | 48 | 106 | 2 |
 | Python | 158 | 25 | 31 | 3 |
 
-## OpenSSF Scorecard
-
-Overall score: **5.3 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
-
 ## Source
 
 - **Upstream**: <https://github.com/cmus/cmus>
@@ -47,7 +37,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,297 · **Forks**: 522 · **Open issues**: 974 · **Contributors**: 148
+- **Stars**: 6,295 · **Forks**: 522 · **Open issues**: 974 · **Contributors**: 148
 
 ## Totals (cumulative)
 
@@ -57,16 +47,16 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 1 | 2 | 0 | 1 | 1 |
-| last60d | 2026-09-17 | 1 | 8 | 4 | 0 | 6 | 9 |
-| 90d | 2026-08-18 | 1 | 8 | 5 | 0 | 7 | 9 |
-| last180d | 2026-05-20 | 1 | 12 | 6 | 0 | 8 | 14 |
-| 360d | 2025-11-21 | 1 | 20 | 11 | 5 | 19 | 20 |
-| last720d | 2024-11-26 | 1 | 36 | 14 | 33 | 34 | 66 |
+| 30d | 2026-10-18 | 1 | 1 | 2 | 0 | 1 | 1 |
+| last60d | 2026-09-18 | 1 | 8 | 4 | 0 | 6 | 9 |
+| 90d | 2026-08-19 | 1 | 8 | 5 | 0 | 7 | 9 |
+| last180d | 2026-05-21 | 1 | 12 | 6 | 0 | 8 | 14 |
+| 360d | 2025-11-22 | 1 | 20 | 11 | 5 | 19 | 20 |
+| last720d | 2024-11-27 | 1 | 36 | 14 | 33 | 34 | 66 |
 
 ## Distribution status
 
-Reported by **161** distros on [repology.org](https://repology.org/project/cmus). **30** are ✅ on the latest upstream release, **122** are ⚠️ on an older version.
+Reported by **162** distros on [repology.org](https://repology.org/project/cmus). **32** are ✅ on the latest upstream release, **121** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -91,4 +81,4 @@ Install metadata for cmus lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:48:29Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:25:29Z._
