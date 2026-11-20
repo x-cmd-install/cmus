@@ -47,26 +47,26 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,298 · **Forks**: 523 · **Open issues**: 975 · **Contributors**: 148
+- **Stars**: 6,299 · **Forks**: 523 · **Open issues**: 975 · **Contributors**: 148
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 345 · **Open PRs**: 16 · **Closed issues**: 768 · **Open issues**: 207 · **Commits**: 2388
+- **Releases**: 12 · **Merged PRs**: 345 · **Open PRs**: 17 · **Closed issues**: 768 · **Open issues**: 207 · **Commits**: 2388
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 1 | 1 | 1 | 0 | 2 | 1 |
-| last60d | 2026-09-20 | 1 | 8 | 3 | 0 | 6 | 9 |
-| 90d | 2026-08-21 | 1 | 8 | 5 | 0 | 8 | 9 |
-| last180d | 2026-05-23 | 1 | 12 | 6 | 0 | 9 | 14 |
-| 360d | 2025-11-24 | 1 | 19 | 11 | 5 | 20 | 20 |
-| last720d | 2024-11-29 | 1 | 35 | 14 | 33 | 35 | 66 |
+| 30d | 2026-10-21 | 1 | 1 | 2 | 0 | 2 | 1 |
+| last60d | 2026-09-21 | 1 | 8 | 4 | 0 | 6 | 9 |
+| 90d | 2026-08-22 | 1 | 8 | 6 | 0 | 8 | 9 |
+| last180d | 2026-05-24 | 1 | 12 | 7 | 0 | 9 | 14 |
+| 360d | 2025-11-25 | 1 | 19 | 12 | 5 | 20 | 20 |
+| last720d | 2024-11-30 | 1 | 35 | 15 | 33 | 35 | 64 |
 
 ## Distribution status
 
-Reported by **160** distros on [repology.org](https://repology.org/project/cmus). **32** are ✅ on the latest upstream release, **119** are ⚠️ on an older version.
+Reported by **159** distros on [repology.org](https://repology.org/project/cmus). **31** are ✅ on the latest upstream release, **119** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -91,4 +91,4 @@ Install metadata for cmus lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T08:10:31Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T09:47:19Z._
