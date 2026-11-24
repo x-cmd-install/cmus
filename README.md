@@ -57,16 +57,16 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 0 | 1 | 0 | 2 | 0 |
-| last60d | 2026-09-24 | 1 | 1 | 4 | 0 | 5 | 3 |
-| 90d | 2026-08-25 | 1 | 8 | 6 | 0 | 8 | 9 |
-| last180d | 2026-05-27 | 1 | 12 | 7 | 0 | 9 | 14 |
-| 360d | 2025-11-28 | 1 | 19 | 12 | 5 | 20 | 20 |
-| last720d | 2024-12-03 | 1 | 35 | 15 | 33 | 35 | 64 |
+| 30d | 2026-10-25 | 1 | 0 | 1 | 0 | 2 | 0 |
+| last60d | 2026-09-25 | 1 | 1 | 4 | 0 | 5 | 3 |
+| 90d | 2026-08-26 | 1 | 8 | 6 | 0 | 7 | 9 |
+| last180d | 2026-05-28 | 1 | 12 | 7 | 0 | 9 | 14 |
+| 360d | 2025-11-29 | 1 | 19 | 12 | 5 | 20 | 20 |
+| last720d | 2024-12-04 | 1 | 35 | 15 | 33 | 35 | 64 |
 
 ## Distribution status
 
-Reported by **157** distros on [repology.org](https://repology.org/project/cmus). **30** are ✅ on the latest upstream release, **118** are ⚠️ on an older version.
+Reported by **157** distros on [repology.org](https://repology.org/project/cmus). **31** are ✅ on the latest upstream release, **117** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -76,7 +76,7 @@ Reported by **157** distros on [repology.org](https://repology.org/project/cmus)
 | Ubuntu 26.04 LTS | `2.12.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `2.10.0` | ⚠️ outdated |
 | Arch | `2.13.0` | ✅ latest |
-| Homebrew | `2.13.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `2.12.0` | ⚠️ outdated |
 | Void | `2.12.0` | ⚠️ outdated |
 | Alpine edge | `2.13.0` | ✅ latest |
@@ -91,4 +91,4 @@ Install metadata for cmus lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T10:06:37Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:26:06Z._
