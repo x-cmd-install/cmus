@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -47,40 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,302 · **Forks**: 523 · **Open issues**: 975 · **Contributors**: 148
+- **Stars**: 6,301 · **Forks**: 523 · **Open issues**: 976 · **Contributors**: 148
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 345 · **Open PRs**: 17 · **Closed issues**: 768 · **Open issues**: 207 · **Commits**: 2388
+- **Releases**: 12 · **Merged PRs**: 345 · **Open PRs**: 17 · **Closed issues**: 768 · **Open issues**: 208 · **Commits**: 2388
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 0 | 1 | 0 | 2 | 0 |
-| last60d | 2026-09-25 | 1 | 1 | 4 | 0 | 5 | 3 |
-| 90d | 2026-08-26 | 1 | 8 | 6 | 0 | 7 | 9 |
-| last180d | 2026-05-28 | 1 | 12 | 7 | 0 | 9 | 14 |
-| 360d | 2025-11-29 | 1 | 19 | 12 | 5 | 20 | 20 |
-| last720d | 2024-12-04 | 1 | 35 | 15 | 33 | 35 | 64 |
-
-## Distribution status
-
-Reported by **157** distros on [repology.org](https://repology.org/project/cmus). **31** are ✅ on the latest upstream release, **117** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `2.12.0` | ⚠️ outdated |
-| Debian 14 | `2.12.0` | ⚠️ outdated |
-| Debian 13 | `2.12.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.12.0` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `2.10.0` | ⚠️ outdated |
-| Arch | `2.13.0` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `2.12.0` | ⚠️ outdated |
-| Void | `2.12.0` | ⚠️ outdated |
-| Alpine edge | `2.13.0` | ✅ latest |
-| openSUSE Tumbleweed | `2.13.0` | ✅ latest |
+| 30d | 2026-10-26 | 1 | 0 | 1 | 0 | 3 | 0 |
+| last60d | 2026-09-26 | 1 | 1 | 4 | 0 | 6 | 3 |
+| 90d | 2026-08-27 | 1 | 8 | 5 | 0 | 8 | 9 |
+| last180d | 2026-05-29 | 1 | 12 | 7 | 0 | 10 | 14 |
+| 360d | 2025-11-30 | 1 | 19 | 12 | 5 | 21 | 20 |
+| last720d | 2024-12-05 | 1 | 35 | 15 | 33 | 36 | 64 |
 
 ## Improve this data
 
@@ -91,4 +73,4 @@ Install metadata for cmus lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:26:06Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:02:53Z._

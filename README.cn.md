@@ -32,7 +32,7 @@ x install cmus
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -47,40 +47,22 @@ x install cmus
 
 ## 流行度
 
-- **Star**: 6,302 · **Fork**: 523 · **开放 issue**: 975 · **贡献者**: 148
+- **Star**: 6,301 · **Fork**: 523 · **开放 issue**: 976 · **贡献者**: 148
 
 ## 累计统计
 
-- **发布数**: 12 · **已合并 PR**: 345 · **开放 PR**: 17 · **已关闭 issue**: 768 · **开放 issue**: 207 · **提交数**: 2388
+- **发布数**: 12 · **已合并 PR**: 345 · **开放 PR**: 17 · **已关闭 issue**: 768 · **开放 issue**: 208 · **提交数**: 2388
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 0 | 1 | 0 | 2 | 0 |
-| last60d | 2026-09-25 | 1 | 1 | 4 | 0 | 5 | 3 |
-| 90d | 2026-08-26 | 1 | 8 | 6 | 0 | 7 | 9 |
-| last180d | 2026-05-28 | 1 | 12 | 7 | 0 | 9 | 14 |
-| 360d | 2025-11-29 | 1 | 19 | 12 | 5 | 20 | 20 |
-| last720d | 2024-12-04 | 1 | 35 | 15 | 33 | 35 | 64 |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/cmus) 上共有 **157** 个发行版报告此项目。**31** 个 ✅ 已是最新上游版本，**117** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `2.12.0` | ⚠️ outdated |
-| Debian 14 | `2.12.0` | ⚠️ outdated |
-| Debian 13 | `2.12.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.12.0` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `2.10.0` | ⚠️ outdated |
-| Arch | `2.13.0` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `2.12.0` | ⚠️ outdated |
-| Void | `2.12.0` | ⚠️ outdated |
-| Alpine edge | `2.13.0` | ✅ latest |
-| openSUSE Tumbleweed | `2.13.0` | ✅ latest |
+| 30d | 2026-10-26 | 1 | 0 | 1 | 0 | 3 | 0 |
+| last60d | 2026-09-26 | 1 | 1 | 4 | 0 | 6 | 3 |
+| 90d | 2026-08-27 | 1 | 8 | 5 | 0 | 8 | 9 |
+| last180d | 2026-05-29 | 1 | 12 | 7 | 0 | 10 | 14 |
+| 360d | 2025-11-30 | 1 | 19 | 12 | 5 | 21 | 20 |
+| last720d | 2024-12-05 | 1 | 35 | 15 | 33 | 36 | 64 |
 
 ## 改进这些数据
 
@@ -91,4 +73,4 @@ cmus 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:26:06Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T10:02:53Z._
